@@ -11,5 +11,5 @@ else:
     newtotal = ottotal * r * 1.5
     total = 40 * r + newtotal
 
-
+print("hi, I'm a test")
 print(total);
