@@ -14,3 +14,12 @@ print('Before')
 for thing in [9, 11, 15, 4]:
     print(thing)
 print('After')
+
+#exercise 3
+largest_so_far = -1
+print('Before', largest_so_far)
+for the_num in [4, 6, 9, 11, 74, 2]:
+    if the_num > largest_so_far:
+        largest_so_far = the_num
+    print(largest_so_far, the_num)
+print('After', largest_so_far)
