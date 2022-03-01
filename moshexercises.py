@@ -7,3 +7,10 @@ for number in range(1, 10):
         print(number)
 
 print(f"There are {count} even numbers")
+
+
+
+
+
+
+#Exercise 2

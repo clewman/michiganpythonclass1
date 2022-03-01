@@ -6,3 +6,11 @@ hrs = float(raw_input("Enter Hours:"))
 rate = float(raw_input("Enter Rate:"))
 p = computepay(hrs,rate)
 print ("Pay",p)
+
+
+
+#exercise 2
+print('Before')
+for thing in [9, 11, 15, 4]:
+    print(thing)
+print('After')
