@@ -18,7 +18,7 @@ print('After')
 #exercise 3
 largest_so_far = -1
 print('Before', largest_so_far)
-for the_num in [4, 6, 9, 11, 74, 2, 351, 1]:
+for the_num in [4, 6, 9, 11, 74, 2312312, 351, 1]:
     if the_num > largest_so_far:
         largest_so_far = the_num
     print(largest_so_far, the_num)
